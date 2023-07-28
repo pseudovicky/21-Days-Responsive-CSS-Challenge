@@ -1,2 +1,2 @@
 # 21-Days-Responsive-CSS-Challenge
-Conquering Responsive Layouts 
+## Conquering Responsive Layouts Course by Kevin Powell
